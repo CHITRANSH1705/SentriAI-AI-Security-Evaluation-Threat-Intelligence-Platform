@@ -1,4 +1,4 @@
-# 🛡️ AI Security Operations Center (AI SOC Platform)
+#  AI Security Operations Center (AI SOC Platform)
 
 > **A full-stack, defensive-engineering platform for evaluating, monitoring, and analyzing LLM security posture in real time.**
 
