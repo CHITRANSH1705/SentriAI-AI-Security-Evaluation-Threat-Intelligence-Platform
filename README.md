@@ -11,7 +11,7 @@
 
 ---
 
-## 📖 Overview
+##  Overview
 The **AI SOC Platform** is a defensive security evaluation dashboard built for engineers and researchers who need to observe, measure, and analyze the behavior of Large Language Models (LLMs) against adversarial attacks. It provides real-time metrics, threat intelligence mapped to **MITRE ATLAS**, and behavioral drift analysis — all through a modern, dark-themed UI.
 
 > ⚠️ **This platform is built exclusively for defensive evaluation and observability. It does not contain automated exploitation engines, jailbreak generators, or dynamic attack mutation systems.**
