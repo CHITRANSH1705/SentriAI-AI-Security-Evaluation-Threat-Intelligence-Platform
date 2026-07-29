@@ -24,7 +24,6 @@ export class SecurityEngine {
     const findings: SecurityFinding[] = [];
     const promptLower = prompt.toLowerCase();
     const responseLower = response.toLowerCase();
-
     let injectionRisk = 0;
     let jailbreak = 0;
     let leakage = 0;
