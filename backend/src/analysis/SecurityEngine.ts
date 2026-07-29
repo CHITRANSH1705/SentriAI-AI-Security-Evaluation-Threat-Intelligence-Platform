@@ -28,7 +28,6 @@ export class SecurityEngine {
     let injectionRisk = 0;
     let jailbreak = 0;
     let leakage = 0;
-    
     // Simple heuristic detection (In a production system, this would use a Judge LLM or ML classifier)
     const jailbreakKeywords = ['ignore previous', 'ignore all', 'system override', 'dan', 'do anything now', 'you are now', 'bypassing'];
     const leakageKeywords = ['system prompt', 'instructions', 'as an ai', 'i am an ai'];
