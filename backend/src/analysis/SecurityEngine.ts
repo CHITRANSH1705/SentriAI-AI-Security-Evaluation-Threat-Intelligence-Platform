@@ -11,7 +11,6 @@ export interface SecurityScore {
   tokenUsage: number;
   findings: SecurityFinding[];
 }
-
 export interface SecurityFinding {
   type: string;
   severity: 'INFO' | 'WARNING' | 'CRITICAL';
