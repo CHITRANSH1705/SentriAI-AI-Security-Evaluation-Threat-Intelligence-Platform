@@ -19,7 +19,6 @@ export interface SecurityFinding {
   description: string;
   mitigation?: string;
 }
-
 export class SecurityEngine {
   static analyze(prompt: string, response: string, latencyMs: number, tokenUsage: number): SecurityScore {
     const findings: SecurityFinding[] = [];
@@ -46,7 +45,6 @@ export class SecurityEngine {
         mitigation: 'Implement a Prompt Guard layer to filter adversarial system overrides.'
       });
     }
-
     if (leakageKeywords.some(k => responseLower.includes(k))) {
       leakage = 0.8;
       findings.push({
