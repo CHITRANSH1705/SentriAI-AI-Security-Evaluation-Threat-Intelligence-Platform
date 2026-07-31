@@ -19,6 +19,8 @@ The **AI SOC Platform** is a defensive security evaluation dashboard built for e
 ##  Features
 
 
+
+
 | Feature | Description |
 |---|---|
 | 🔬 **Live Evaluation Engine** | Run real prompts against OpenAI, Anthropic Claude, or a local Ollama model and score the response instantly |
