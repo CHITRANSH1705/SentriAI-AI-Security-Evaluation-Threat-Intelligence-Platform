@@ -10,6 +10,8 @@ interface ContextType {
   updateLiveState: (updates: Partial<SimulationState>) => void;
 }
 
+
+
 const SimulationContext = createContext<ContextType | undefined>(undefined);
 
 // ===== Seed Data =====
