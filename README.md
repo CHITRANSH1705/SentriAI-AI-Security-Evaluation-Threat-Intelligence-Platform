@@ -16,7 +16,6 @@ The **AI SOC Platform** is a defensive security evaluation dashboard built for e
 
 > ⚠️ **This platform is built exclusively for defensive evaluation and observability. It does not contain automated exploitation engines, jailbreak generators, or dynamic attack mutation systems.**
 ---
-
 ##  Features
 
 | Feature | Description |
