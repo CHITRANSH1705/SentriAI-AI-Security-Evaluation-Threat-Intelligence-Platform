@@ -28,7 +28,6 @@ The **AI SOC Platform** is a defensive security evaluation dashboard built for e
 | 🔐 **Threats Dashboard** | Real-time threat event feed with CVE-style severity ratings and incident tracking |
 | ⚙️ **Settings & Provider Config** | Configure API keys and model endpoints from within the UI — no manual `.env` editing required |
 ---
-
 ## 🏗️ Architecture
 
 ```
