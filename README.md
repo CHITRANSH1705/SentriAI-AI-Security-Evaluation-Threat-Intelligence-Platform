@@ -18,7 +18,7 @@ The **AI SOC Platform** is a defensive security evaluation dashboard built for e
 
 | Feature | Description |
 |---|---|
-| 🔬 **Live Evaluation Engine** | Run real prompts against OpenAI, Anthropic Claude, or a local Ollama model and score the response instantly |
+|  **Live Evaluation Engine** | Run real prompts against OpenAI, Anthropic Claude, or a local Ollama model and score the response instantly |
 | 📊 **Security Scoring** | Heuristic analysis scoring for Prompt Injection Risk, Jailbreak Detection, System Prompt Leakage, Data Exfiltration, Hallucination Risk, and Toxicity |
 | 🗺️ **MITRE ATLAS Mapping** | Automatically maps detected threats to ATLAS adversarial ML technique IDs (e.g. `AML.T0051.000`) |
 | 📈 **Behavioral Drift Analysis** | Tracks semantic drift, hallucination risk trends, and consistency scores across simulation rounds |
