@@ -1,7 +1,7 @@
 #  AI Security Operations Center (AI SOC Platform)
 
 
-> **A full-stack, defensive-engineering platform for evaluating, monitoring, and analyzing LLM security posture in real time.**
+> **A full-stack, defensive-engineering platform for evaluating, monitoring, and analyzing LLM security posture in real time**
 >
 > 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
