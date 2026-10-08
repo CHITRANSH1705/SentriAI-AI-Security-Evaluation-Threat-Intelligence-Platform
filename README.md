@@ -10,7 +10,6 @@
 [![Vite](https://img.shields.io/badge/Vite-8.0-646CFF?logo=vite&logoColor=white)](https://vite.dev/)
 [![Express](https://img.shields.io/badge/Express-4.x-000000?logo=express&logoColor=white)](https://expressjs.com/)
 [![MITRE ATLAS](https://img.shields.io/badge/MITRE-ATLAS-red)](https://atlas.mitre.org/)
-
 ---
 ##  Overview
 The **AI SOC Platform** is a defensive security evaluation dashboard built for engineers and researchers who need to observe, measure, and analyze the behavior of Large Language Models (LLMs) against adversarial attacks. It provides real-time metrics, threat intelligence mapped to **MITRE ATLAS**, and behavioral drift analysis — all through a modern, dark-themed UI.
@@ -18,8 +17,6 @@ The **AI SOC Platform** is a defensive security evaluation dashboard built for e
 >  **This platform is built exclusively for defensive evaluation and observability. It does not contain automated exploitation engines, jailbreak generators, or dynamic attack mutation systems.**
 ---
 ##  Features
-
-
 | Feature | Description |
 |---|---|
 |  **Live Evaluation Engine** | Run real prompts against OpenAI, Anthropic Claude, or a local Ollama model and score the response instantly |
