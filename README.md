@@ -25,7 +25,6 @@ The **AI SOC Platform** is a defensive security evaluation dashboard built for e
 | ⚙️ **Settings & Provider Config** | Configure API keys and model endpoints from within the UI — no manual `.env` editing required |
 ---
 ## 🏗️ Architecture
-
 ```
 ai-security-platform/
 ├── frontend/               # React 19 + Vite 8 + TailwindCSS v4 SPA
