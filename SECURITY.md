@@ -6,6 +6,7 @@
 | ------- | ------------------ |
 | 1.0.1.1   | :white_check_mark:|
 
+
 ## Reporting a Vulnerability
 This platform is intended exclusively for defensive evaluation and static observability. It does NOT contain automated exploitation, jailbreak discovery, or dynamic mutation engines.
 
